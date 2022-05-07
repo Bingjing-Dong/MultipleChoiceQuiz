@@ -1,0 +1,4 @@
+#Fri May 15 12:32:27 EDT 2020
+base.0=C\:\\Users\\123\\Desktop\\CSc221\\MultipleChoiceQuiz\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
